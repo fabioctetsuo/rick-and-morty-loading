@@ -1,6 +1,7 @@
 import React from "react";
 import { render } from "react-dom";
 import gsap from "gsap";
+import "./style.css";
 
 const App = () => {
   React.useEffect(() => {
